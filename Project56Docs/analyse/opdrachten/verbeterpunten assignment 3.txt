@@ -1,0 +1,6 @@
+-Activitydiagrams ipv sequence diagrams
+- In een DFD is een ander proces eigenlijk geen external
+- Hf7 van Sommervilles boek bevat info over hoe het implementatieplan wel moet
+- Draai vraag 2 en 3 van B om
+- Ons use case diagram is een use case overview diagram
+- Beschrijf use cases vanuit de user

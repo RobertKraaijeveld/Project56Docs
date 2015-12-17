@@ -1,0 +1,13 @@
+(1. checkout documentation
+2. git pull
+3. git status)
+4. git add .
+5. git commit -m "MESSAGE"
+6. git push
+
+---
+1. git pull
+
+
+
+
